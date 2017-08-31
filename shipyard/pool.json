@@ -1,0 +1,19 @@
+{  
+   "pool_specification":{  
+      "id":"blobpool",
+      "vm_size":"STANDARD_D5_V2",
+      "vm_count":{  
+         "dedicated":1,
+         "low_priority":0
+      },
+      "vm_configuration":{  
+         "platform_image":{  
+            "publisher":"Canonical",
+            "offer":"UbuntuServer",
+            "sku":"16.04-LTS"
+         }
+      },    
+      "reboot_on_start_task_failed":false,
+      "block_until_all_global_resources_loaded":true
+   }
+}

@@ -1,0 +1,759 @@
+{
+    "job_specifications": [
+        {
+            "id": "blobtest",
+            "tasks": [
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 1mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 15mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 40mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 80mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 80mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 80mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 150mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 150mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 400mb.txt"
+                },
+                {
+                    "image": "adampaternostro/blobconcurrency:latest",
+                    "remove_container_after_exit": true,
+                    "command": "python3 /app/BlobConcurrency.py 400mb.txt"
+                }
+            ]
+        }
+    ]
+}
