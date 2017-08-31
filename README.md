@@ -1,16 +1,16 @@
-
 # Azure-Blob-Concurrency
 Docker container that runs on Azure blob using Alpine Linux with Azure Python SDK to put a load on Azure Storage to see the download times.  The timings are saved to an Azure Storage Table.  It is up to you to download and analyze.
+
 
 ### To Run this code
 1. Create an Azure Storage Account
 2. Create an Azure Batch Account 
-3. Create some different sized blobs and place in your storage account
+3. Create some different sized blobs and place in your storage account (or use https://www.thinkbroadband.com/download)
 4. Test the Python code locally
 5. Build the Docker image
 6. Upload image to a repository
 7. Edit the Shipward config files
-8. Issue the below commands to run the process
+8. Issue the below commands to run the process.  You will need to change /home/shipyarduser/pythonblob to where the shipyard config files reside on your disk.
 
 ### Get Shipyard Docker image, Create the Batch Pool, Run the Job, Delete the Pool
 ```
